@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".compareActivity" />
-        <activity android:name=".MediaActivity"></activity>
+        <activity android:name=".MediaActivity" />
+        <activity android:name=".ResultActivity"></activity>
     </application>
 
 </manifest>

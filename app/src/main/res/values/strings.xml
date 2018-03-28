@@ -8,4 +8,5 @@
     <string name="alcool">Álcool(R$)</string>
     <string name="qtde">Quantidade em litros</string>
     <string name="kms">Quilômetros rodados</string>
+    <string name="result">Resultado:</string>
 </resources>

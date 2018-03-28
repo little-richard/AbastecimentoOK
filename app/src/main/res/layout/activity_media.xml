@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:theme="@style/Editextcolor"
         android:textColor="@color/white"
+        android:inputType="numberDecimal"
         android:hint="@string/qtde"
         android:textColorHint="@color/white"
         android:gravity="center"
@@ -33,6 +34,7 @@
         android:layout_height="wrap_content"
         android:theme="@style/Editextcolor"
         android:textColor="@color/white"
+        android:inputType="numberDecimal"
         android:hint="@string/kms"
         android:textColorHint="@color/white"
         android:gravity="center"
@@ -41,7 +43,7 @@
         />
 
     <ImageButton
-        android:id="@+id/btComparar"
+        android:id="@+id/btCalcularMedia"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:src="@drawable/button_comparar"
