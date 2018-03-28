@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Abastecimento</string>
+    <string name="axg">Alcool x Gasolina</string>
+    <string name="media">Média</string>
+    <string name="welcome">Seja bem vindo! Econimize tendo um controle melhor do seu consumo!</string>
+    <string name="gasolina">Gasolina ()</string>
+    <string name="gasolinra">Gasolina (R$)</string>
+    <string name="alcool">Álcool(R$)</string>
+    <string name="qtde">Quantidade em litros</string>
+    <string name="kms">Quilômetros rodados</string>
+</resources>
